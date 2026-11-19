@@ -1,1 +1,1 @@
-# Pair-Activity
+## Git Best Practices
